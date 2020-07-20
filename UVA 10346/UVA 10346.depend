@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539623839 source:h:\2-2 term\algorithm codes\uva 10346\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<iostream>
+

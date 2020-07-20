@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537953282 source:h:\2-2 term\algorithm (dp)\activity selection\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
